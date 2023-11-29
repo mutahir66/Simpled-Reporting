@@ -1,0 +1,9 @@
+• Creating various reports using Pentaho Report Designer.
+• Design the reports according to Clients requirement.
+• Used Embedded transformation to source the data from API for reports.
+• Combine different reports into 1 report using sub-report in PRD.
+• Testing the reports over core application.
+• Deploying the reports on Reporting Server using Cicle CI.
+• Upgrading Reporting System to support Excel, PDF, Cube, Xml, CSV files.
+• Analyze & Trouble shoot problems in the existing reports.
+• Menage the Jobs, Transformations and PRPT files using github.
